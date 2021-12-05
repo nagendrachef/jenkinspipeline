@@ -10,6 +10,7 @@ pipeline {
 		    uptime;date
 		    ls -ltr
 		    echo "test well & got success"
+		    echo "installed new git bash"
                 '''
             }
         }
