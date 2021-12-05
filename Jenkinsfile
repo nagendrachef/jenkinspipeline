@@ -9,6 +9,7 @@ pipeline {
                     ls -lah
 		    uptime;date
 		    ls -ltr
+		    echo "test well & got success"
                 '''
             }
         }
